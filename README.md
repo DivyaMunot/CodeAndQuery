@@ -18,12 +18,10 @@ My primary goal with this repository is to document my progress as I delve deepe
 ### Medium
 |Question|Solution|
 |:---|:---:|
-|git status|git status|
 
 ### Hard
 |Question|Solution|
 |:---|:---:|
-|git status|git status|
 
 ## Contributions and Feedback 💙
 If you find this repository useful, please leave a ⭐. I'm open to suggestions and feedback to improve the repository and help it serve as a valuable resource for everyone interested in SQL.
