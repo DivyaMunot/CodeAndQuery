@@ -14,6 +14,7 @@ My primary goal with this repository is to document my progress as I delve deepe
 |Question|Solution|
 |:---|:---:|
 |[DataLemur-Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)|[Solution](DataLemur/Easy-Histogram_of_Tweets.sql)|
+|[DataLemur-Data Science Skills](https://datalemur.com/questions/matching-skills)|[Solution](DataLemur/Easy-Data%20Science%20Skills.sql)|
 
 ### Medium
 |Question|Solution|
