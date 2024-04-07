@@ -13,7 +13,7 @@ My primary goal with this repository is to document my progress as I delve deepe
 ### Easy
 |Question|Solution|
 |:---|:---:|
-|git status|git status|
+|[DataLemur-Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)|git status|
 
 ### Medium
 |Question|Solution|
