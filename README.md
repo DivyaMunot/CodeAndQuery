@@ -17,14 +17,19 @@ My primary goal with this repository is to document my progress as I delve deepe
 |:---|:---:|
 |[DataLemur-Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)|[Solution](DataLemur/Easy-Histogram_of_Tweets.sql)|
 |[DataLemur-Data Science Skills](https://datalemur.com/questions/matching-skills)|[Solution](DataLemur/Easy-Data%20Science%20Skills.sql)|
+|[DataLemur-Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes)|[Solution](DataLemur/Easy-Page_With_No_Likes.sql)|
+|[DataLemur-Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts)|[Solution](DataLemur/Easy-Unfinished_Parts.sql)|
 
 ### Medium
 |Question|Solution|
 |:---|:---:|
+|[DataLemur-User's Third Transaction](https://datalemur.com/questions/sql-third-transaction)|[Solution](DataLemur/Medium-User's_Third_Transaction.sql)|
+|[DataLemur-Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps)|[Solution](DataLemur/Medium-Sending_vs_Opening_Snaps.sql)|
 
 ### Hard
 |Question|Solution|
 |:---|:---:|
+|[DataLemur-Active User Retention](https://datalemur.com/questions/user-retention)|[Solution](DataLemur/Hard-Active_User_Retention.sql)|
 
 ## Contributions and Feedback 💙
 If you find this repository useful, please leave a ⭐. I'm open to suggestions and feedback to improve the repository and help it serve as a valuable resource for everyone interested in SQL.
