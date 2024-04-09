@@ -17,9 +17,10 @@ My primary goal with this repository is to document my progress as I delve deepe
 |Question|Solution|
 |:---|:---:|
 |[DataLemur-Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)|[Solution](DataLemur/Easy-Histogram_of_Tweets.sql)|
-|[DataLemur-Data Science Skills](https://datalemur.com/questions/matching-skills)|[Solution](DataLemur/Easy-Data%20Science%20Skills.sql)|
+|[DataLemur-Data Science Skills](https://datalemur.com/questions/matching-skills)|[Solution](DataLemur/Easy-Data_Science_Skills.sql)|
 |[DataLemur-Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes)|[Solution](DataLemur/Easy-Page_With_No_Likes.sql)|
 |[DataLemur-Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts)|[Solution](DataLemur/Easy-Unfinished_Parts.sql)|
+|[DataLemur-Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership)|[Solution](DataLemur/Easy-Laptop_vs_Mobile_Viewership.sql)
 
 ### Medium
 |Question|Solution|
@@ -31,6 +32,7 @@ My primary goal with this repository is to document my progress as I delve deepe
 |Question|Solution|
 |:---|:---:|
 |[DataLemur-Active User Retention](https://datalemur.com/questions/user-retention)|[Solution](DataLemur/Hard-Active_User_Retention.sql)|
+|[DataLemur-Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate)|[Solution](DataLemur/Hard-Y_on_Y_Growth_Rate.sql)|
 
 ## Contributions and Feedback 💙
 If you find this repository useful, please leave a ⭐. I'm open to suggestions and feedback to improve the repository and help it serve as a valuable resource for everyone interested in SQL.
