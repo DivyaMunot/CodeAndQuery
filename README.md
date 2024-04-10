@@ -27,6 +27,7 @@ My primary goal with this repository is to document my progress as I delve deepe
 |:---|:---:|
 |[DataLemur-User's Third Transaction](https://datalemur.com/questions/sql-third-transaction)|[Solution](DataLemur/Medium-User's_Third_Transaction.sql)|
 |[DataLemur-Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps)|[Solution](DataLemur/Medium-Sending_vs_Opening_Snaps.sql)|
+|[DataLemur-Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets)|[Solution](DataLemur/Medium-Tweets_Rolling_Averages.sql)
 
 ### Hard
 |Question|Solution|
