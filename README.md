@@ -20,7 +20,8 @@ My primary goal with this repository is to document my progress as I delve deepe
 |[DataLemur-Data Science Skills](https://datalemur.com/questions/matching-skills)|[Solution](DataLemur/Easy-Data_Science_Skills.sql)|
 |[DataLemur-Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes)|[Solution](DataLemur/Easy-Page_With_No_Likes.sql)|
 |[DataLemur-Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts)|[Solution](DataLemur/Easy-Unfinished_Parts.sql)|
-|[DataLemur-Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership)|[Solution](DataLemur/Easy-Laptop_vs_Mobile_Viewership.sql)
+|[DataLemur-Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership)|[Solution](DataLemur/Easy-Laptop_vs_Mobile_Viewership.sql)|
+|[Leetcode-Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/)|[Solution](Leetcode/Easy-Game_Play_Analysis_1.sql)|
 
 ### Medium
 |Question|Solution|
