@@ -40,6 +40,7 @@ My primary goal with this repository is to document my progress as I delve deepe
 |:---|:---:|
 |[DataLemur-Active User Retention](https://datalemur.com/questions/user-retention)|[Solution](DataLemur/Hard-Active_User_Retention.sql)|
 |[DataLemur-Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate)|[Solution](DataLemur/Hard-Y_on_Y_Growth_Rate.sql)|
+|[HackerRank-Interviews](https://www.hackerrank.com/challenges/interviews/problem)|[Solution](HackerRank/Hard-Interviews.sql)|
 
 ## Contributions and Feedback 💙
 If you find this repository useful, please leave a ⭐. I'm open to suggestions and feedback to improve the repository and help it serve as a valuable resource for everyone interested in SQL.
