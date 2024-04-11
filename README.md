@@ -23,6 +23,8 @@ My primary goal with this repository is to document my progress as I delve deepe
 |[DataLemur-Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership)|[Solution](DataLemur/Easy-Laptop_vs_Mobile_Viewership.sql)|
 |[Leetcode-Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/)|[Solution](Leetcode/Easy-Game_Play_Analysis_1.sql)|
 |[DataLemur-Average Post Hiatus](https://datalemur.com/questions/sql-average-post-hiatus-1)|[Solution](DataLemur/Easy-Average_Post_Hiatus.sql)|
+|[HackerRank-Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[Solution](HackerRank/Easy-Revising_the_Select_Query_1.sql)|
+
 
 ### Medium
 |Question|Solution|
