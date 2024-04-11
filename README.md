@@ -35,6 +35,7 @@ My primary goal with this repository is to document my progress as I delve deepe
 |[DataLemur-Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets)|[Solution](DataLemur/Medium-Tweets_Rolling_Averages.sql)
 |[DataLemur-Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing)|[Solution](DataLemur/Medium-Highest_Grossing_Items.sql)|
 |[HackerRank](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|[Solution](HackerRank/Medium-Weather_Observation_Station_20.sql)|
+|[HackerRank](https://www.hackerrank.com/challenges/occupations/problem)|[Solution](HackerRank/Medium-Occupations.sql)|
 
 ### Hard
 |Question|Solution|
