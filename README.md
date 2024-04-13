@@ -26,7 +26,8 @@ My primary goal with this repository is to document my progress as I delve deepe
 |[HackerRank-Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[Solution](HackerRank/Easy-Revising_the_Select_Query_1.sql)|
 |[HackerRank-Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|[Solution](HackerRank/Easy-Revising_the_Select_Query_2.sql)|
 |[HackerRank-Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)|[Solution](HackerRank/Easy-Draw_the_Triangle_1.sql)|
-|[DataLemur-Teams Power Users](https://datalemur.com/questions/teams-power-users)|[Solution](Datalemur/Easy-Teams_Power_Users.sql)|
+|[DataLemur-Teams Power Users](https://datalemur.com/questions/teams-power-users)|[Solution](DataLemur/Easy-Teams_Power_Users.sql)|
+|[DataLemur-Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings)|[Solution](DataLemur/Easy-Duplicate_Job_Listings.sql)|
 
 ### Medium
 |Question|Solution|
@@ -44,6 +45,7 @@ My primary goal with this repository is to document my progress as I delve deepe
 |[DataLemur-Active User Retention](https://datalemur.com/questions/user-retention)|[Solution](DataLemur/Hard-Active_User_Retention.sql)|
 |[DataLemur-Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate)|[Solution](DataLemur/Hard-Y_on_Y_Growth_Rate.sql)|
 |[HackerRank-Interviews](https://www.hackerrank.com/challenges/interviews/problem)|[Solution](HackerRank/Hard-Interviews.sql)|
+|[DataLemur-3-Topping Pizzas](https://datalemur.com/questions/pizzas-topping-cost)|[Solution](DataLemur/Hard-3_Toppings_Pizzas.sql)|
 
 ## Contributions and Feedback 💙
 If you find this repository useful, please leave a ⭐. I'm open to suggestions and feedback to improve the repository and help it serve as a valuable resource for everyone interested in SQL.
